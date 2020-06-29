@@ -36,6 +36,6 @@ features<br>
 submission<br>
 ┣beyas226feat_5fold_LGBM.csv<br>
 ┣226feat_5fold_seed1001_XGB.csv<br>
-┗XGB_LGBM2.csv<br>
+┗XGB_LGBM.csv<br>
 <br>
-<br>XGB_LGBM2.cs is the final submission
+<br>XGB_LGBM.csv is the final submission
