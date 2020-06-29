@@ -1,8 +1,9 @@
 # gci_comp2
 <br><br><br>
 inputディレクトリにはGCI上のデータを3つ入れる<br>
-notebookディレクトリにあるipynbを上から実行すれば正しく動くと思います<br>
-xfeat_homecredit.ipynbはダウンロードしてKaggleのKernel上で行ってください<br>
+notebookディレクトリにあるipynbをtreeに書いてある上から実行すれば正しく動くと思います<br>
+xfeat_homecredit.ipynbはダウンロードしてKaggleのKernel上で行ってください<br><br>
+<br>
 input<br>
 ┣train.csv<br>
 ┣test.csv<br>
