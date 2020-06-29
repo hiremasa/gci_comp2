@@ -1,5 +1,5 @@
 # gci_comp2
-10th_place_solution<br>
+<br><br><br>
 inputディレクトリにはGCI上のデータを3つ入れる<br>
 notebookディレクトリにあるipynbを上から実行すれば正しく動くと思います<br>
 xfeat_homecredit.ipynbはダウンロードしてKaggleのKernel上で行ってください<br>
